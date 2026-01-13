@@ -1,16 +1,39 @@
-## Hi there 👋
+## Hi, I'm Kritika 👋
 
-<!--
-**Kritikagupt/Kritikagupt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCA (Data Science) student  
+🤖 Interested in Machine Learning, NLP, and Data Science  
+🐍 Python developer building real-world ML projects  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔹 Skills
+Programming: Python, SQL
+
+Data Science: NumPy, Pandas, Data Cleaning, Feature Engineering
+
+Machine Learning: Supervised & Unsupervised Learning, Model Evaluation
+
+Deep Learning: LSTM, CNN, ANN (TensorFlow / Keras)
+
+NLP: Text preprocessing, Tokenization, Sequence modeling
+
+Visualization: Matplotlib, Seaborn
+
+Web & Deployment: Streamlit
+
+Databases: MySQL, SQLite
+
+Tools: Git, GitHub, VS Code, Jupyter Notebook
+
+---
+
+### 🔹 Projects
+- LSTM Next Word & Sentence Prediction
+- Spam Detection using ML
+- Credit Delinquency Prediction
+- Resume & Profile Automation
+
+---
+
+### 📫 Connect with me
+- LinkedIn: https://www.linkedin.com/in/kritika-gupta-817895284

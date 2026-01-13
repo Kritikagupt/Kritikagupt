@@ -28,5 +28,18 @@ Machine Learning and Data Science practitioner with practical experience in deve
 
 ---
 
+### 🔹 What I Focus On
+- Building end-to-end ML projects from data preprocessing to deployment  
+- Writing clean, readable, and reproducible code  
+- Continuously learning and improving model performance
+
+---
+
 ### 📫 Connect with me
 - LinkedIn: https://www.linkedin.com/in/kritika-gupta-817895284
+
+- ---
+
+### 📊 GitHub Stats
+![Kritika's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kritikagupt&show_icons=true&theme=default)
+

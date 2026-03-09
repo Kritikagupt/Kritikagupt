@@ -1,30 +1,58 @@
 ## Hi, I'm Kritika 👋
 
-🎓 BCA (Data Science) student  
+BCA (Data Science) Graduate | Python Developer | Machine Learning Enthusiast
 
-Machine Learning and Data Science practitioner with practical experience in developing and deploying real-world models using Python, TensorFlow, and Streamlit.
-
+I build machine learning and data-driven applications using Python, TensorFlow, and Scikit-learn.  
+Interested in solving real-world problems with ML, NLP, and backend development.
 ---
 
 ### 🔹 Skills
 
-**Programming:** Python, SQL  
-**Data Science:** NumPy, Pandas, Data Cleaning, Feature Engineering  
-**Machine Learning:** Supervised & Unsupervised Learning, Model Evaluation  
-**Deep Learning:** LSTM, CNN, ANN (TensorFlow / Keras)  
-**NLP:** Text Preprocessing, Tokenization, Sequence Modeling  
-**Visualization:** Matplotlib, Seaborn  
-**Web & Deployment:** Streamlit  
-**Databases:** MySQL, SQLite  
-**Tools:** Git, GitHub, VS Code, Jupyter Notebook  
+Programming: Python, SQL  
+
+Data Science: Pandas, NumPy, Data Cleaning, Feature Engineering  
+
+Machine Learning: Scikit-learn, TensorFlow, Model Evaluation  
+
+Deep Learning: CNN, LSTM, ANN  
+
+NLP: Text Preprocessing, Tokenization, TF-IDF  
+
+Visualization: Matplotlib, Seaborn  
+
+Web & Deployment: Streamlit  
+
+Databases: MySQL, SQLite  
+
+Tools: Git, GitHub, VS Code, Jupyter Notebook
 
 ---
 
 ### 🔹 Projects
-- LSTM Next Word & Sentence Prediction
-- Spam Detection using Machine Learning
-- Credit Delinquency Prediction
-- Resume & Profile Automation
+
+• Moonleaf Cafe Management System  
+
+Full-stack web application built using **Python, Django, and SQL** for managing cafe orders, menu items, and customer records with database integration.
+
+• AI Resume Analyzer  
+
+NLP-based application using **Python, Streamlit, and NLP techniques** to analyze resumes and extract relevant skills.
+
+• Movie Genre Classification  
+
+Machine learning model built with **Python, TF-IDF, and Scikit-learn** to classify movie genres based on plot descriptions.
+
+• Spam Detection using Machine Learning  
+
+Text classification model using **Python, NLP, TF-IDF, and Scikit-learn** for detecting spam messages.
+
+• Credit Delinquency Prediction  
+
+Machine learning model using **Python, Pandas, and Scikit-learn** to predict credit default risk from financial data.
+
+• Resume & Profile Automation  
+
+AI-powered system developed with **Python and NLP** for analyzing resumes and extracting key candidate skills.
 
 ---
 
@@ -41,5 +69,5 @@ Machine Learning and Data Science practitioner with practical experience in deve
 - ---
 
 ### 📊 GitHub Stats
-![Kritika's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kritikagupt&show_icons=true&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kritikagupt&show_icons=true&theme=github_dark)
 
